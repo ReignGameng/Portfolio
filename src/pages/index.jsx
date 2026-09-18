@@ -15,7 +15,7 @@ const index = () => {
             <div className='top'>
                 <div style={{ minWidth: "400px", maxWidth: "800px", display: 'flex', justifyContent: 'start', alignItems: 'start', gap: '16px', flexDirection: 'column' }}>
                     <div className='name'>Reign Gameng</div>
-                    <div className='job'>Junior Web Developer</div>
+                    <div className='job'>Junior Full-Stack Developer</div>
                     <div className='skills'>
                         {/* <div className='skill-option'> Bootstrap </div> */}
                         <div className='skill-option'> MERN Stack</div>
